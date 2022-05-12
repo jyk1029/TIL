@@ -2,8 +2,6 @@
 
 ### **(Hyper Text Transfer Protocol)**
 
----
-
 ## ✏ 정의
 
 
