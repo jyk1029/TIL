@@ -1,4 +1,4 @@
-# 생성자(Constructor
+# 생성자(Constructor)
 ## 📌 정의
 - 객체를 생성할 때 항상 실행되는 것으로, 객체를 초기화해주기 위해 맨 처음 실행되는 [메소드](https://github.com/jyk1029/TIL/blob/main/Method.md)
 
